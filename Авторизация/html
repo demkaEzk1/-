@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="root">
+      <section class="section">Зарегистрироваться</section>
+      <section class="login-image"></section>
+      <div class="separator">
+        <div class="div">8 932 888 893</div>
+      </div>
+      <div class="auth-title">
+        <div class="wrapper">
+          <h3 class="h3">Авторизация</h3>
+        </div>
+      </div>
+      <div class="credentials-layout">
+        <div class="login-fields">
+          <div class="username-field"></div>
+          <div class="password-field">
+            <div class="div1">Имя пользователя</div>
+          </div>
+        </div>
+      </div>
+      <div class="credentials-layout1">
+        <div class="frame-parent">
+          <div class="frame-child"></div>
+          <div class="container">
+            <div class="div2">Пароль</div>
+          </div>
+        </div>
+      </div>
+      <div class="login-button">
+        <button class="frame">
+          <div class="div3">Авторизироваться</div>
+        </button>
+      </div>
+      <img
+        class="background-shape-icon"
+        loading="lazy"
+        alt=""
+        src="./public/3@2x.png"
+      />

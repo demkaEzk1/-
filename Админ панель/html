@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="main">
+      <section class="section">Зарегистрироваться</section>
+      <section class="separator"></section>
+      <div class="remember-me-placeholder-wrapper">
+        <div class="remember-me-placeholder">8 932 888 893</div>
+      </div>
+      <div class="admin-panel-link-wrapper">
+        <div class="admin-panel-link">
+          <h2 class="h2">Админ панель</h2>
+        </div>
+      </div>
+      <div class="e-mail">Имя пользователя или e-mail</div>
+      <div class="main-child"></div>
+      <div class="div">Пароль</div>
+      <div class="main-inner">
+        <div class="frame-child"></div>
+      </div>
+      <div class="login-container-wrapper">
+        <div class="login-container">
+          <div class="login-button-wrapper">
+            <div class="login-button-background"></div>
+          </div>
+          <div class="remember-me-checkbox">
+            <div class="div1">Запомни меня</div>
+          </div>
+          <div class="login-submit-button-wrapper">
+            <div class="login-submit-button">
+              <div class="div2">Войти</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>

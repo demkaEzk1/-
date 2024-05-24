@@ -1,0 +1,243 @@
+.section {
+  margin-top: -1021px;
+  margin-left: -758px;
+  margin-bottom: 764px;
+  width: 1975px;
+  height: 234px;
+  position: relative;
+  font-size: 193px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 640%;
+}
+.login-image {
+  width: 1600px;
+  height: 1614px;
+  position: absolute;
+  margin: 0 !important;
+  right: -2041px;
+  bottom: -3885px;
+  border-radius: 50%;
+  background-color: #8cb9e3;
+  z-index: 1;
+}
+.div {
+  position: relative;
+  display: inline-block;
+  min-width: 29px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.separator {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+  font-size: 4px;
+}
+.h3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 105px;
+  z-index: 1;
+}
+.auth-title,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.wrapper {
+  flex: 1;
+  border-radius: var(--br-22xl);
+  background-color: #4b4b4d;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: var(--padding-10xs) 38px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.auth-title {
+  width: 258px;
+  justify-content: flex-start;
+  padding: 0 32px;
+  box-sizing: border-box;
+  font-size: 15px;
+  color: #eeefa0;
+}
+.div1,
+.username-field {
+  position: relative;
+  z-index: 1;
+}
+.username-field {
+  height: 17px;
+  width: 17px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div1 {
+  display: inline-block;
+  min-width: 91px;
+}
+.credentials-layout,
+.login-fields,
+.password-field {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.password-field {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.credentials-layout,
+.login-fields {
+  flex-direction: row;
+}
+.login-fields {
+  flex: 1;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: 9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.credentials-layout {
+  width: 258px;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.frame-child {
+  height: 17px;
+  width: 17px;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.div2 {
+  position: relative;
+  display: inline-block;
+  min-width: 37px;
+}
+.container,
+.credentials-layout1,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.credentials-layout1,
+.frame-parent {
+  flex-direction: row;
+}
+.frame-parent {
+  flex: 1;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: 5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.credentials-layout1 {
+  width: 258px;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.div3 {
+  position: relative;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 92px;
+}
+.frame,
+.login-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame {
+  cursor: pointer;
+  border: 0;
+  padding: 7px 67px;
+  background-color: #7bef5f;
+  flex: 1;
+  border-radius: var(--br-22xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.login-button {
+  width: 274px;
+  padding: 0 20px 21px 0;
+  box-sizing: border-box;
+}
+.background-shape-icon {
+  width: 215px;
+  height: 215px;
+  position: absolute;
+  margin: 0 !important;
+  right: -41px;
+  bottom: -50px;
+  object-fit: contain;
+  z-index: 1;
+}
+.a {
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  min-width: 65px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.forgot-password,
+.root {
+  display: flex;
+  align-items: flex-start;
+}
+.forgot-password {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 23px;
+  font-size: 8px;
+}
+.root {
+  width: 100%;
+  height: 318px;
+  position: relative;
+  background: linear-gradient(-8.38deg, #4b4b4d, #666869);
+  overflow: hidden;
+  flex-direction: column;

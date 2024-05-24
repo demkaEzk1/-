@@ -1,0 +1,13 @@
+import LoginForm from "../components/LoginForm";
+import "./root.css";
+
+const Root = () => {
+  return (
+    <div className="root">
+      <section className="section">Зарегистрироваться</section>
+      <section className="root-child" />
+      <div className="wrapper">
+        <div className="div">8 932 888 893</div>
+      </div>
+      <div className="root-inner">
+        <div className="container">

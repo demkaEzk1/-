@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home">
+      <section class="section">Зарегистрироваться</section>
+      <section class="home-child"></section>
+      <div class="wrapper">
+        <div class="div">8 932 888 893</div>
+      </div>
+      <div class="nested-signup">
+        <div class="container">
+          <h3 class="h3">Зарегистрироваться</h3>
+        </div>
+      </div>
+      <div class="registration-form">
+        <div class="parent">
+          <div class="div1">ФИО</div>
+          <div class="div2">Номер</div>
+          <div class="email">Email</div>
+        </div>
+        <div class="input-fields-container">
+          <div class="input-fields"></div>
+          <div class="input-fields1"></div>
+          <div class="input-fields2">
+            <img
+              class="empty-input-icon"
+              loading="lazy"
+              alt=""
+              src="./public/3@2x.png"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
